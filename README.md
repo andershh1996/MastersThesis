@@ -5,7 +5,7 @@ Machine Learning as an Editorial Decision-Support Tool for Metadata Enrichment a
 The repository consists of six Jupyter Notebook files documenting the data preparation process and the development of the machine learning models used throughout the study.
 
 ## Repository Structure
-### 1. Data Analysis and Dataset Preparation.ipynb
+### Data Analysis and Dataset Preparation.ipynb
 This notebook contains the dataset investigation and preprocessing steps used to construct the final dataset employed in the thesis.
 
 ### Model 1: playBERTbase.ipynb
